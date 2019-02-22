@@ -1,7 +1,9 @@
 #labpy03
 <h3>latihan1.py</h3>
-<img src="https://github.com/septiansaputra/labpy03/blob/master/latihan1.png" />
+<img src="https://github.com/septiansaputra/labpy03/blob/master/cpy1.png" />
 <h6>Algoritma latihan1 : Import adalah menggabungkan dua operasi; itu mencari modul yang bernama, kemudian mengikat hasil pencarian itu ke nama di lingkup lokal. Operasi pencarian importpernyataan didefinisikan sebagai panggilan ke import()fungsi, dengan argumen yang sesuai. Nilai kembali dari import()digunakan untuk melakukan operasi pengikatan nama importpernyataan. Lihat importpernyataan untuk detail persis operasi pengikatan nama itu. For adalah jika urutan berisi daftar ekspresi, itu dievaluasi terlebih dahulu. Kemudian, item pertama dalam urutan ditugaskan ke variabel iterating iterating_var . Selanjutnya, blok pernyataan dieksekusi. Setiap item dalam daftar ditugaskan ke iterating_var , dan blok pernyataan dieksekusi sampai seluruh urutan habis. Print adalah untuk menampilkan objek ke perangkat pengeluaran. </h6>
+<h6>berikut saya lampirkan Output dari latihan1.py</h6>
+<img src="https://github.com/septiansaputra/labpy03/blob/master/hpy1.png" />
 <h3>latihan2.py</h3>
 <img src="https://github.com/septiansaputra/labpy03/blob/master/latihan2.png" />
 <h6>Algoritma Latihan2 : While Pertama menentukan variabel untuk menghitung, dan menentukan kapan perulangan berhenti. kalau pengguna menjawab tidak maka perulangan akan terhenti.</h6>
