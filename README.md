@@ -27,7 +27,7 @@
 <img src="https://github.com/septiansaputra/labpy03/blob/master/latihan1.png" />
 <h6>latihan2.py</h6>
 <img src="https://github.com/septiansaputra/labpy03/blob/master/latihan2.png" />
-<h6>perogram1.py</h6>
-<img src="https://github.com/septiansaputra/labpy03/blob/master/perogram1.png" />
+<h6>program1.py</h6>
+<img src="https://github.com/septiansaputra/labpy03/blob/master/program1.png" />
 
-<h5>Sekian Terimakasih</h5>
+<h4>Sekian Terimakasih</h4>
