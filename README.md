@@ -5,7 +5,7 @@
 <h6>berikut saya lampirkan Output dari latihan1.py</h6>
 <img src="https://github.com/septiansaputra/labpy03/blob/master/hpy1.png" />
 <h3>latihan2.py</h3>
-<img src="https://github.com/septiansaputra/labpy03/blob/master/latihan2.png" />
+<img src="https://github.com/septiansaputra/labpy03/blob/master/cpy2.png" />
 <h6>Algoritma Latihan2 : While Pertama menentukan variabel untuk menghitung, dan menentukan kapan perulangan berhenti. kalau pengguna menjawab tidak maka perulangan akan terhenti.</h6>
   
 <h6>jawab = 'ya' hitung = 0</h6>
@@ -13,6 +13,10 @@
 <h6>Melakukan perulangan dengan while, kemudian menambah satu variabel hitung setiap kali mengulang. lalu menanyakan kepada pengguna, apakah mau berhenti mengulang atau tidak?</h6>
 
 <h6>while(jawab == 'ya'): hitung += 1 jawab = raw_input("Ulang lagi tidak? ") Setelah selesai mengulang, cetak berapa kali perulangan tersebut terjadi Jika dijalankan</h6>
+<h6>berikut saya lampirkan Output dari latihan2.py</h6>
+<img src="https://github.com/septiansaputra/labpy03/blob/master/hpy2.png" />
 <h3>program1.py</h3>
-<img src="https://github.com/septiansaputra/labpy03/blob/master/program1.png" />
+<img src="https://github.com/septiansaputra/labpy03/blob/master/cpy3.png" />
 <h6>Algoritma program1 : Jika urutan berisi daftar ekspresi, itu dievaluasi terlebih dahulu. Kemudian, item pertama dalam urutan ditugaskan ke variabel iterating iterating_var . Selanjutnya, blok pernyataan dieksekusi. Setiap item dalam daftar ditugaskan ke iterating_var , dan blok pernyataan dieksekusi sampai seluruh urutan habis</h6>
+<h6>berikut saya lampirkan Output dari program1.py</h6>
+<img src="https://github.com/septiansaputra/labpy03/blob/master/hpy3.png" />
