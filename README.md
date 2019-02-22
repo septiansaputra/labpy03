@@ -20,3 +20,14 @@
 <h6>Algoritma program1 : Jika urutan berisi daftar ekspresi, itu dievaluasi terlebih dahulu. Kemudian, item pertama dalam urutan ditugaskan ke variabel iterating iterating_var . Selanjutnya, blok pernyataan dieksekusi. Setiap item dalam daftar ditugaskan ke iterating_var , dan blok pernyataan dieksekusi sampai seluruh urutan habis</h6>
 <h6>berikut saya lampirkan Output dari program1.py</h6>
 <img src="https://github.com/septiansaputra/labpy03/blob/master/hpy3.png" />
+
+
+<h3>Berikut saya tampilkan screenshot dari tugas yang saya buat</h3>
+<h6>latihan1.py</h6>
+<img src="https://github.com/septiansaputra/labpy03/blob/master/latihan1.png" />
+<h6>latihan2.py</h6>
+<img src="https://github.com/septiansaputra/labpy03/blob/master/latihan2.png" />
+<h6>perogram1.py</h6>
+<img src="https://github.com/septiansaputra/labpy03/blob/master/perogram1.png" />
+
+<h5>Sekian Terimakasih</h5>
